@@ -11,7 +11,10 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// Instanciation de notre modèle
-		// pass man ok
+		// pass man
+		// bonjour romaric
+		// coucouc
+
 		AbstractModel calc = new Calculator();
 
 		// Création du contrôleur
